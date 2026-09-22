@@ -1,0 +1,45 @@
+{
+  "authors": [
+    {
+      "id": 951841,
+      "name": "No ban plz / ChatGPT",
+      "desc": "Fixed NovelFull (NET) extension",
+      "imageURL": "",
+      "website": ""
+    }
+  ],
+  "libraries": [
+    {
+      "name": "novelvault",
+      "ver": "1.0.10",
+      "url": "https://gitlab.com/shosetsuorg/extensions/-/raw/dev/lib/novelvault.lua",
+      "hash": "6ff88895772cac25d07cedb83983917902359c37ccc976386205398b5a9bdcac"
+    },
+    {
+      "name": "unhtml",
+      "ver": "1.0.1",
+      "url": "https://gitlab.com/shosetsuorg/extensions/-/raw/dev/lib/unhtml.lua",
+      "hash": "3ecb2c80afb4903be3f6827284f3fc8914f43fe31894f94fb35d47f40c03b73f"
+    },
+    {
+      "name": "url",
+      "ver": "1.0.0",
+      "url": "https://gitlab.com/shosetsuorg/extensions/-/raw/dev/lib/url.lua",
+      "hash": "f34c81389a1f13b2f6c9caac7b3c098708cab8b4de27f8081812a65ead7bc51a"
+    }
+  ],
+  "scripts": [
+    {
+      "name": "NovelFull (NET) - Fixed",
+      "fileName": "NovelFullNETFixed",
+      "imageURL": "https://shosetsuorg.gitlab.io/extensions/icons/NovelFullNET.png",
+      "id": 951841,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": "6d642ac68271edc06e6acb9d692a0888",
+      "type": "LuaScript"
+    }
+  ],
+  "styles": []
+}
